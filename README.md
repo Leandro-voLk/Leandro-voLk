@@ -39,10 +39,11 @@ Hoje aplico essa experiência para construir produtos mais confiáveis, bem test
 
 ---
 
-## 📊 GitHub Insights
+## 🚀 Projetos em destaque
+- 🔹 **SiteTradudor** — projeto web com HTML/CSS
+- 🔹 **projeto-memoria** — estudo de layout e interação
+- 🔹 Em breve — projetos Front-end e QA sendo publicados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leandro-voLk&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-voLk&layout=compact)
 
 ---
 
